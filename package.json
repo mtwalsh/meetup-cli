@@ -1,0 +1,20 @@
+{
+  "name": "meetup-cli",
+  "version": "1.0.0",
+  "description": "Meetup CLI live coding demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Walsh",
+  "license": "ISC",
+  "bin": {
+    "meetup": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "inquirer": "^7.0.4",
+    "log-symbols": "^3.0.0",
+    "yargs": "^15.1.0"
+  }
+}
