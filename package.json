@@ -17,7 +17,7 @@
     "figlet": "^1.5.0",
     "inquirer": "^7.3.3",
     "log-symbols": "^3.0.0",
-    "shelljs": "^0.8.4",
+    "shelljs": "^0.8.5",
     "yargs": "^15.4.1"
   }
 }
